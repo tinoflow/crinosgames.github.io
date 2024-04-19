@@ -1,3 +1,3 @@
-# ez-games.github.io
+# tinogames.github.io
 
 BEST GAMES FOR SCHOOL (UNBLOCKED)
