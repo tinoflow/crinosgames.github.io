@@ -1,7 +1,7 @@
  @import url('https://rsms.me/inter/inter.css');
 html {
   background-color: #000000;
-  color: #FFFFFF;
+  color: #ffffff;
   font-family: Inter sans-serif;
   }
   .heading {
@@ -17,12 +17,12 @@ html {
     text-align: center;
   }
   a:link {
-    color: #FFFFFF;
+    color: #ffffff;
     background-color: transparent;
     text-decoration: none;
   }
   a:visited {
-    color: #FFFFFF;
+    color: #ffffff;
     background-color: transparent;
     text-decoration: none;
   }
