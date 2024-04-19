@@ -1,3 +1,3 @@
 # ez-games.github.io
 
-Simple Game Website
+BEST GAMES FOR SCHOOL (UNBLOCKED)
