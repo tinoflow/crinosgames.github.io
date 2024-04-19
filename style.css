@@ -22,12 +22,12 @@ html {
     text-decoration: none;
   }
   a:visited {
-    color: #800080;
+    color: #000000;
     background-color: transparent;
     text-decoration: none;
   }
   a:hover {
-    color: #c58af9;
+    color: #000000;
     background-color: transparent;
     text-decoration: underline;
   }
