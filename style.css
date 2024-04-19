@@ -17,17 +17,17 @@ html {
     text-align: center;
   }
   a:link {
-    color: #000000;
+    color: #FFFFFF;
     background-color: transparent;
     text-decoration: none;
   }
   a:visited {
-    color: #000000;
+    color: #FFFFFF;
     background-color: transparent;
     text-decoration: none;
   }
   a:hover {
-    color: #000000;
+    color: #FFFFFF;
     background-color: transparent;
     text-decoration: underline;
   }
